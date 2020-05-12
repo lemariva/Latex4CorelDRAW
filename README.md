@@ -33,7 +33,7 @@ If you've already written some text, you can edit that:
 
 | |
 |:--|
-|![Fonts not installed](images/font_substitution.jpg?raw=true "Fonts not installed")|
+|![Fonts not installed](images/font_substitutions.jpg?raw=true "Fonts not installed")|
 |Fig. 2: Check font name to install.|
 
 ## Acknowledge
