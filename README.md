@@ -29,7 +29,7 @@ If you've already written some text, you can edit that:
 
 ## Typical errors
 * You can open and edit the macro going to `Tools->Scripts->Script Editor`. To edit and save the macro, you need to open CorelDraw with administration rights. Otherwise, you cannot edit the file under `C:\Program Files`.
-* If the Latex text is not correctly displayed (Arial font), you need to install some fonts. Try to import the file `teximport_neu.ps` located inside `%%TEMP%%` folder (usually `C:\Users\<username>\AppData\Local\Temp`) using `File->Import`. By the import options, select **Text**. CorelDraw will popup a windows with subtitution recommendations for the fonts (see Fig. 2). Search [here](https://www.ctan.org/tex-archive/fonts/cm/ps-type1/bakoma/ttf/) and install those fonts. Then, repeat step 5. 
+* If the Latex text is not correctly displayed (Arial font), you need to install some fonts. Try to import the file `teximport_neu.ps` located inside `%TEMP%` folder (usually `C:\Users\<username>\AppData\Local\Temp` or `%TEMP%\teximport_neu.ps`) using `File->Import`. By the import options, select **Text**. CorelDraw will popup a windows with subtitution recommendations for the fonts (see Fig. 2). Search [here](https://www.ctan.org/tex-archive/fonts/cm/ps-type1/bakoma/ttf/) and install those fonts. Then, repeat step 5. 
 
 | |
 |:--|
